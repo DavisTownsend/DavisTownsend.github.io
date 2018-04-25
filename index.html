@@ -5,6 +5,11 @@ subtitle: Python Data Analysis / Business Analyst / Data Simplifyer
 css: "/css/index.css"
 meta-title: "Davis Townsend - Business Analyst"
 meta-description: "Business Analyst at EA. MS Business Analytics and BA Economics from UT Austin"
+bigimg:
+  - "/img/big-imgs/altitude-blue-sky-clouds-530158.jpg" : "test"
+  - "/img/big-imgs/bridge-california-cliff-7653.jpg" : ""
+  - "/img/big-imgs/cc0-desktop-backgrounds-fog-7919.jpg" : ""
+  - "/img/big-imgs/cliffs-climbing-clouds-746421.jpg" : ""
 ---
 
 <div class="list-filters">
