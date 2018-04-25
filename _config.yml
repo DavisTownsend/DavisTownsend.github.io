@@ -23,7 +23,7 @@ description: This site is intended for intermediate level analysts or data scien
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: tell all about me
+  About Me: "some boring stuff about me"
   Resources:
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
