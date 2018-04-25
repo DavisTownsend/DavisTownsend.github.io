@@ -138,8 +138,9 @@ title-separator: "-"
 timezone: "America/Chicago"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
-paginate: 5
+permalink: /blog/:title/
+paginate: 10
+paginate_path: "/page:num/"
 
 kramdown:
   input: GFM
