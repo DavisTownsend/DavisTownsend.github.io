@@ -19,6 +19,14 @@ title: Simply Data
 # Short description of your site
 description: This site is intended for intermediate level analysts or data scientists. I will attempt to explain advanced topics in an easy to follow way.
 
+# Output options (more information on Jekyll's site)
+timezone: "America/Chicago"
+markdown: kramdown
+highlighter: rouge
+permalink: /blog/:title/
+paginate: 10
+paginate_path: "/page:num/"
+
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
@@ -145,14 +153,6 @@ excerpt_length: 50
 title-separator: "-"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
-
-# Output options (more information on Jekyll's site)
-timezone: "America/Chicago"
-markdown: kramdown
-highlighter: rouge
-permalink: /blog/:title/
-paginate: 10
-paginate_path: "/page:num/"
 
 kramdown:
   input: GFM
