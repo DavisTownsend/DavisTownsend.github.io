@@ -1,6 +1,6 @@
 # Simply Data
 
-This is the repository for my Simply Data blogging site
+This is the repository for my personal site
 
 This site was created using Beautiful Jekyll
 
