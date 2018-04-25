@@ -20,7 +20,6 @@ bigimg:
   - "/img/big-imgs/jesse-orrico-60373-unsplash.jpg" : ""
   - "/img/big-imgs/markus-spiske-507983-unsplash.jpg" : ""
   - "/img/big-imgs/nasa-43563-unsplash.jpg" : ""
-  - "/img/big-imgs/nasa-43567-unsplash.jpg" : ""
   - "/img/big-imgs/nathan-anderson-143022-unsplash.jpg" : ""
   - "/img/big-imgs/cliffs-climbing-clouds-746421.jpg" : ""
   - "/img/big-imgs/spacex-549326-unsplash.jpg" : ""
