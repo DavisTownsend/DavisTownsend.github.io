@@ -25,10 +25,16 @@ description: This site is intended for intermediate level analysts or data scien
 navbar-links:
   About Me: "aboutme"
   Resources:
+    - Python Data Science Distribution: "https://www.anaconda.com/distribution/"
     - Python for Data Analysis: "http://wesmckinney.com/pages/book.html"
     - Modern Data Analysis with pandas: "https://tomaugspurger.github.io/"
     - Time Series Analysis & Forecasting: "https://robjhyndman.com/hyndsight/"
+    - Shiny-like Apps for python: "https://plot.ly/products/dash/"
+    - Future of Data Access in Data Science: "https://arrow.apache.org/"
+    - Future of Data persistence in Data Science: "https://parquet.apache.org/"
+    - Self-Service Data in Enterprise: "https://www.dremio.com/"
     - Learn markdown: "http://www.markdowntutorial.com/"
+    - Markdown Cheat Sheet: "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"
     - How to build a site like this: "https://deanattali.com/2015/03/12/beautiful-jekyll-how-to-build-a-site-in-minutes/"
   Author's home: "https://www.linkedin.com/in/DavisTownsend"
 
