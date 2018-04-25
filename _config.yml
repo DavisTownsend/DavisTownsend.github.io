@@ -26,6 +26,7 @@ navbar-links:
 Blog:""
   About Me: "aboutme"
   Resources:
+    - TESTING CHANGES: "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"
     - Python Data Science Distribution: "https://www.anaconda.com/distribution/"
     - Python for Data Analysis: "http://wesmckinney.com/pages/book.html"
     - Modern Data Analysis with pandas: "https://tomaugspurger.github.io/"
