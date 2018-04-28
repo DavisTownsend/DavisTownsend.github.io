@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Hi, I'm Davis"
-subtitle: Python Data Analysis / Business Analyst / Data Simplifyer
+title: "Simply Data"
+subtitle: Making Advanced Data Analysis easy to understand
 css: "/css/index.css"
 meta-title: "Davis Townsend - Business Analyst"
 meta-description: "Business Analyst at EA. MS Business Analytics and BA Economics from UT Austin"
