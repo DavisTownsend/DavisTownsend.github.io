@@ -12218,7 +12218,9 @@ The init_notebook_mode line is very important for when we download this notebook
 <h3 id="Loading-in-plotly">Loading in plotly<a class="anchor-link" href="#Loading-in-plotly">&#182;</a></h3><p>For some reason I always get a weird error when downloading as html that looks like this:
 <img src="https://raw.githubusercontent.com/DavisTownsend/DavisTownsend.github.io/master/img/2018-04-29-PlotlyBloggingTutorial/ploty_issue.PNG"></p>
 <p>so we just need to go find and replace this line which is causing problems:</p>
+<p>requirejs.config({paths: { 'plotly': ['https://cdn.plot.ly/plotly-latest.min']},});if(!window.Plotly) {{require(['plotly'],function(plotly) {window.Plotly=plotly;});}}</p>
 <p>with this line:</p>
+<p><script src="plotly.js" charset="utf-8"></script></p>
 <p>that loads in the plotly package correctly</p>
 <p>For more info see: <a href="https://github.com/plotly/plotly.js/blob/master/dist/README.md">https://github.com/plotly/plotly.js/blob/master/dist/README.md</a></p>
 
