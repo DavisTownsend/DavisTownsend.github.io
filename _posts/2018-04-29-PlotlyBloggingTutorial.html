@@ -12291,7 +12291,7 @@ The init_notebook_mode line is very important for when we download this notebook
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[6]:</div>
+<div class="prompt input_prompt">In&nbsp;[8]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">front_matter_str</span> <span class="o">=</span> <span class="s2">&quot;&quot;&quot;---</span>
@@ -12309,7 +12309,7 @@ The init_notebook_mode line is very important for when we download this notebook
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[7]:</div>
+<div class="prompt input_prompt">In&nbsp;[10]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">subprocess</span>
@@ -12338,7 +12338,7 @@ The init_notebook_mode line is very important for when we download this notebook
             <span class="n">f</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="n">string</span><span class="o">.</span><span class="n">rstrip</span><span class="p">(</span><span class="s1">&#39;</span><span class="se">\r\n</span><span class="s1">&#39;</span><span class="p">)</span> <span class="o">+</span> <span class="s1">&#39;</span><span class="se">\n</span><span class="s1">&#39;</span> <span class="o">+</span> <span class="n">content</span><span class="p">)</span>
             
     <span class="c1">#call function to prepend front matter to the file </span>
-    <span class="n">html_file</span> <span class="o">=</span> <span class="n">filename_found</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s1">&#39;.ipynb&#39;</span><span class="p">,</span><span class="s1">&#39;.html&#39;</span><span class="p">)</span>
+    <span class="n">html_file</span> <span class="o">=</span> <span class="n">filename</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s1">&#39;.ipynb&#39;</span><span class="p">,</span><span class="s1">&#39;.html&#39;</span><span class="p">)</span>
     <span class="n">prepend_string</span><span class="p">(</span><span class="n">html_file</span><span class="p">,</span><span class="n">front_matter</span><span class="p">)</span>
     <span class="nb">print</span><span class="p">(</span><span class="s1">&#39;converted html file at: &#39;</span><span class="p">,</span><span class="n">html_file</span><span class="p">)</span>
 
@@ -12362,23 +12362,9 @@ The init_notebook_mode line is very important for when we download this notebook
 <div class="prompt"></div>
 
 
-<div class="output_subarea output_text output_error">
-<pre>
-<span class="ansi-red-intense-fg ansi-bold">---------------------------------------------------------------------------</span>
-<span class="ansi-red-intense-fg ansi-bold">NameError</span>                                 Traceback (most recent call last)
-<span class="ansi-green-intense-fg ansi-bold">&lt;ipython-input-7-396b97e84370&gt;</span> in <span class="ansi-cyan-fg">&lt;module&gt;</span><span class="ansi-blue-intense-fg ansi-bold">()</span>
-<span class="ansi-green-fg">     33</span> 
-<span class="ansi-green-fg">     34</span> 
-<span class="ansi-green-intense-fg ansi-bold">---&gt; 35</span><span class="ansi-yellow-intense-fg ansi-bold"> </span>jekyll_html_post <span class="ansi-yellow-intense-fg ansi-bold">=</span> conv_nb_jekyll<span class="ansi-yellow-intense-fg ansi-bold">(</span>filename<span class="ansi-yellow-intense-fg ansi-bold">=</span><span class="ansi-blue-intense-fg ansi-bold">&#39;2018-04-29-PlotlyBloggingTutorial.ipynb&#39;</span><span class="ansi-yellow-intense-fg ansi-bold">,</span>front_matter<span class="ansi-yellow-intense-fg ansi-bold">=</span>front_matter_str<span class="ansi-yellow-intense-fg ansi-bold">)</span>
-
-<span class="ansi-green-intense-fg ansi-bold">&lt;ipython-input-7-396b97e84370&gt;</span> in <span class="ansi-cyan-fg">conv_nb_jekyll</span><span class="ansi-blue-intense-fg ansi-bold">(filename, front_matter)</span>
-<span class="ansi-green-fg">     25</span> 
-<span class="ansi-green-fg">     26</span>     <span class="ansi-red-intense-fg ansi-bold">#call function to prepend front matter to the file</span>
-<span class="ansi-green-intense-fg ansi-bold">---&gt; 27</span><span class="ansi-yellow-intense-fg ansi-bold">     </span>html_file <span class="ansi-yellow-intense-fg ansi-bold">=</span> filename_found<span class="ansi-yellow-intense-fg ansi-bold">.</span>replace<span class="ansi-yellow-intense-fg ansi-bold">(</span><span class="ansi-blue-intense-fg ansi-bold">&#39;.ipynb&#39;</span><span class="ansi-yellow-intense-fg ansi-bold">,</span><span class="ansi-blue-intense-fg ansi-bold">&#39;.html&#39;</span><span class="ansi-yellow-intense-fg ansi-bold">)</span>
-<span class="ansi-green-fg">     28</span>     prepend_string<span class="ansi-yellow-intense-fg ansi-bold">(</span>html_file<span class="ansi-yellow-intense-fg ansi-bold">,</span>front_matter<span class="ansi-yellow-intense-fg ansi-bold">)</span>
-<span class="ansi-green-fg">     29</span>     print<span class="ansi-yellow-intense-fg ansi-bold">(</span><span class="ansi-blue-intense-fg ansi-bold">&#39;converted html file at: &#39;</span><span class="ansi-yellow-intense-fg ansi-bold">,</span>html_file<span class="ansi-yellow-intense-fg ansi-bold">)</span>
-
-<span class="ansi-red-intense-fg ansi-bold">NameError</span>: name &#39;filename_found&#39; is not defined</pre>
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>converted html file at:  2018-04-29-PlotlyBloggingTutorial.html
+</pre>
 </div>
 </div>
 
