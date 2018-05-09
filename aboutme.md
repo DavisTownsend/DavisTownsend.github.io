@@ -10,10 +10,60 @@ Business Analyst at EA
 
 Education
 ---
-### University of Texas at Austin
+#### University of Texas at Austin
 Master of Science, Business Analytics
 
 Bachelor of Arts, Economics with Special Honors
 
   Minor: Certified Business Foundations from McCombs School of Business
+  
+Languages
+---
+#### Python
+* Jupyter Notebooks / Jupyterlab / JupyterHub
+* Dash by Plotly
+* Dask
+* Pandas
+* Numpy
+* Scikit-Learn
+* nltk
+* ipywidgets
+* Requests
+* BeautifulSoup
+* pygsheets
+* SQLAlchemy
+* python-slackclient
+* python-binance
+* coinmarketcap
+#### R
+* R Studio / R Studio Server / R markdown
+* Shiny / R Markdown Reports
+* forecast
+* Tidyverse
+* RODBC
+* Devtools
+* Reshape
+
+Data Visualization Tools
+---
+* PowerBI
+* Tableau
+* Google Data Studio
+* Plotly / Cufflinks
+* Bokeh / Holoviews
+* ggplot2
+* matplotlib / seaborn
+
+Database Tools
+---
+* Microsoft SQL Server
+* Google BigQuery
+
+Misc Frameworks
+---
+* Docker
+* Jenkins
+* Git (Stash/Github)
+* Knowledge Repo
+
 
