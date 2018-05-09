@@ -14,5 +14,6 @@ Education
 Master of Science, Business Analytics
 
 Bachelor of Arts, Economics with Special Honors
+
   Minor: Certified Business Foundations from McCombs School of Business
 
