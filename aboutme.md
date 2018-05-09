@@ -3,6 +3,14 @@ layout: page
 title: About me
 subtitle: Hey I'm Davis
 ---
+Current Projects in Progress
+---
+#### forecast
+High Level python wrapper around R forecast and Prophet libraries for easy parallelized Univariate forecasting using Dask
+
+#### Cryfolio
+DASH app for Binance portfolio valuation
+
 
 Current Position
 ---
