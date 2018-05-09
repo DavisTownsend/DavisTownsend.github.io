@@ -38,8 +38,8 @@ Languages
 #### R
 * R Studio / R Studio Server / R markdown
 * Shiny / R Markdown Reports
-* forecast
 * Tidyverse
+* forecast
 * RODBC
 * Devtools
 * Reshape
