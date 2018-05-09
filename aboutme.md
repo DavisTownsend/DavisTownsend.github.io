@@ -34,6 +34,7 @@ Languages
 * BeautifulSoup
 * pygsheets
 * PyDrive
+* Pyodbc / Turbodbc
 * python-slackclient
 * python-binance
 * coinmarketcap
