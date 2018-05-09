@@ -5,13 +5,13 @@ subtitle: Hey I'm Davis
 ---
 
 Current Position
-======
+---
 Business Analyst at EA
 
-:mortar_board:	Education :mortar_board:
-=====
-## University of Texas at Austin
-Master of Science, Business Analytics - UT Austin
+Education
+---
+### University of Texas at Austin
+Master of Science, Business Analytics
 
 Bachelor of Arts, Economics with Special Honors
 
