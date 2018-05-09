@@ -26,12 +26,14 @@ Languages
 * Pandas
 * Numpy
 * Scikit-Learn
+* SQLAlchemy
+* pyspark
 * nltk
 * ipywidgets
 * Requests
 * BeautifulSoup
 * pygsheets
-* SQLAlchemy
+* PyDrive
 * python-slackclient
 * python-binance
 * coinmarketcap
@@ -40,6 +42,7 @@ Languages
 * Shiny / R Markdown Reports
 * Tidyverse
 * forecast
+* sparklyr
 * RODBC
 * Devtools
 * Reshape
