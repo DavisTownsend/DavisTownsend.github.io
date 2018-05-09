@@ -12,6 +12,8 @@ Business Analyst at EA
 =====
 ## University of Texas at Austin
 Master of Science, Business Analytics - UT Austin
+
 Bachelor of Arts, Economics with Special Honors
+
 Minor: Certified Business Foundations from McCombs School of Business
 
