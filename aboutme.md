@@ -20,7 +20,9 @@ Business Analyst at EA
 
 Education
 ---
+
 #### University of Texas at Austin
+
 Master of Science, Business Analytics
 
 Bachelor of Arts, Economics with Special Honors
@@ -30,6 +32,7 @@ Bachelor of Arts, Economics with Special Honors
 Languages
 ---
 #### Python
+
 * Jupyter Notebooks / Jupyterlab / JupyterHub
 * Dash by Plotly
 * Dask
@@ -49,6 +52,7 @@ Languages
 * python-binance
 * coinmarketcap
 #### R
+
 * R Studio / R Studio Server / R markdown
 * Shiny / R Markdown Reports
 * Tidyverse
