@@ -81,8 +81,9 @@ Misc Frameworks
 ---
 * Docker
 * Jenkins
-* Git (Stash/Github)
+* Git (Stash/Github/GitLab)
 * Knowledge Repo
 * Dremio
+* markdown / rst
 
 
