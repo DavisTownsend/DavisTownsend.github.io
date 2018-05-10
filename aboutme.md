@@ -7,9 +7,8 @@ Current Projects in Progress
 ---
 
 
-#### forecast
+#### magi
 High Level python wrapper around R forecast and Prophet libraries for easy parallelized Univariate forecasting using Dask
-
 #### Cryfolio
 DASH app for Binance portfolio valuation
 
