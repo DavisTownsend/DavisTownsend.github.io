@@ -80,9 +80,9 @@ Misc Frameworks
 ---
 * Docker
 * Jenkins
-* Git (Stash/Github/GitLab)
+* Git (BitBucket/Github/GitLab)
 * Knowledge Repo
 * Dremio
-* markdown / rst
+* markdown / reST
 
 
