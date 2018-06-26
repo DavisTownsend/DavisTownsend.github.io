@@ -15,7 +15,7 @@ DASH app for Binance portfolio valuation
 
 Current Position
 ---
-Business Analyst at EA
+Senior Analyst at EA
 
 Education
 ---
@@ -38,6 +38,9 @@ Languages
 * Pandas
 * Numpy
 * Scikit-Learn
+* Scipy
+* Statsmodels
+* XGBoost
 * SQLAlchemy
 * pyspark
 * nltk
@@ -46,6 +49,9 @@ Languages
 * BeautifulSoup
 * pygsheets
 * PyDrive
+* Prophet
+* pyarrow
+* OR-Tools
 * Pyodbc / Turbodbc
 * python-slackclient
 * python-binance
@@ -75,6 +81,7 @@ Database Tools
 ---
 * Microsoft SQL Server
 * Google BigQuery
+* SQL / HIVE
 
 Misc Frameworks
 ---
