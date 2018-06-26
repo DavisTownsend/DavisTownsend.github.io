@@ -3,8 +3,8 @@ layout: page
 title: "Simply Data"
 subtitle: Making Advanced Data Analysis easy to understand
 css: "/css/index.css"
-meta-title: "Davis Townsend - Business Analyst"
-meta-description: "Business Analyst at EA. MS Business Analytics and BA Economics from UT Austin"
+meta-title: "Davis Townsend - Senior Analyst"
+meta-description: "Senior Analyst at EA. MS Business Analytics and BA Economics from UT Austin"
 bigimg:
   - "/img/big-imgs/abstract-art-blur-373543.jpg" : ""
   - "/img/big-imgs/airport-bank-board-534216.jpg" : ""
