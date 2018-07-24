@@ -37,7 +37,6 @@ Languages
 * Dask
 * Pandas
 * Numpy
-* Scikit-Learn
 * Scipy
 * Statsmodels
 * XGBoost
@@ -66,6 +65,15 @@ Languages
 * RODBC
 * Devtools
 * Reshape
+#### SQL
+#### HiveQL
+
+Machine Learning Frameworks
+---
+* Scikit-learn
+* TensorFlow
+* Spark MLlib
+* H20.ai
 
 Data Visualization Tools
 ---
@@ -81,7 +89,12 @@ Database Tools
 ---
 * Microsoft SQL Server
 * Google BigQuery
-* SQL / HIVE
+* Amazon Redshift
+
+Spreadsheet Tools
+---
+Excel
+Google Sheets
 
 Misc Frameworks
 ---
