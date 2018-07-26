@@ -65,7 +65,9 @@ Languages
 * RODBC
 * Devtools
 * Reshape
+
 #### SQL
+
 #### HiveQL
 
 Machine Learning Frameworks
@@ -90,11 +92,6 @@ Database Tools
 * Microsoft SQL Server
 * Google BigQuery
 * Amazon Redshift
-
-Spreadsheet Tools
----
-Excel
-Google Sheets
 
 Misc Frameworks
 ---
