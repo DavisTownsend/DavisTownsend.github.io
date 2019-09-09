@@ -15,6 +15,10 @@ DASH app for Binance portfolio valuation
 
 Current Position
 ---
+Staff Data Analyst at Gitlab
+
+Previous Position
+---
 Senior Analyst at EA
 
 Education
